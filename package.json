@@ -1,0 +1,26 @@
+{
+  "name": "primergulp",
+  "version": "1.0.0",
+  "description": "mi primer proyecto de gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BienvenidoBoriko/cursosass.git"
+  },
+  "keywords": [
+    "gulp",
+    "curso"
+  ],
+  "author": "bienvenido",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BienvenidoBoriko/cursosass/issues"
+  },
+  "homepage": "https://github.com/BienvenidoBoriko/cursosass#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
